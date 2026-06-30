@@ -90,3 +90,7 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 ![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingyin74&theme=tokyonight&hide_border=true" />
+</p>
